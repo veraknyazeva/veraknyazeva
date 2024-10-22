@@ -26,6 +26,8 @@
 - Планировщик дел: [ссылка](https://github.com/veraknyazeva/todo-backend.git)
 - Магазин: [ссылка](https://github.com/veraknyazeva/shop.git)
 - Проверка надежности пароля:
+- Калькулятор [ссылка](https://github.com/veraknyazeva/vacation-pay-calculator.git)
+- Сервис авторизации [ссылка](https://github.com/veraknyazeva/authorizationService.git)
 
 
 

@@ -15,7 +15,6 @@
 - Протокол HTTP [ссылка](https://github.com/veraknyazeva/request.git)
 - Unit тесты [ссылка](https://github.com/veraknyazeva/big-girls.git)
 - Mockito [ссылка](https://github.com/veraknyazeva/geo-service.git)
-- CSV - JSON парсер / XML - JSON парсер [ссылка](https://github.com/veraknyazeva/csvJson.git)
 
 
 ## Проекты:
@@ -28,6 +27,7 @@
 - Проверка надежности пароля:
 - Калькулятор [ссылка](https://github.com/veraknyazeva/vacation-pay-calculator.git)
 - Сервис авторизации [ссылка](https://github.com/veraknyazeva/authorizationService.git)
+- CSV - JSON парсер / XML - JSON парсер [ссылка](https://github.com/veraknyazeva/csvJson.git)
 
 
 

@@ -19,6 +19,7 @@
 
 ## Проекты:
 - Приложение "Банковские карты": [ссылка](https://github.com/veraknyazeva/bankCards.git)
+- Дипломная работа "Облачное хранилище": [ссылка](https://github.com/veraknyazeva/cloud-storage-diplom)
 - Сервис перевода денег: [ссылка](https://github.com/veraknyazeva/money-transfer-service.git)
 - Курсовая работа по многопоточности “Сетевой чат”: [сервер](https://github.com/veraknyazeva/chat-server.git), [клиент](https://github.com/veraknyazeva/chat-client.git).
 - Конвертер в текстовую графику: [ссылка](https://github.com/veraknyazeva/TextGraphicsConverter.git)

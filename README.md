@@ -2,19 +2,19 @@
 ### Я Князева Вера, Java разработчик.
 
 ## Ключевые компетенции: 
-- Java 17
+- Java 
 - Алгоритмы и структуры данных: [ссылка](https://github.com/veraknyazeva/algoritms.git)
 - Шаблоны проектирования
-- Spring (boot, mvc, cloud, security)
+- Spring 
 - Gradle/Maven
 - PostgreSQL
 - Hibernate
 - Git
 - Docker
-- Kubernetes
 - Протокол HTTP [ссылка](https://github.com/veraknyazeva/request.git)
 - Unit тесты [ссылка](https://github.com/veraknyazeva/big-girls.git)
 - Mockito [ссылка](https://github.com/veraknyazeva/geo-service.git)
+- Интеграционные тесты
 
 
 ## Проекты:
@@ -25,7 +25,6 @@
 - Конвертер в текстовую графику: [ссылка](https://github.com/veraknyazeva/TextGraphicsConverter.git)
 - Планировщик дел: [ссылка](https://github.com/veraknyazeva/todo-backend.git)
 - Магазин: [ссылка](https://github.com/veraknyazeva/shop.git)
-- Проверка надежности пароля:
 - Калькулятор [ссылка](https://github.com/veraknyazeva/vacation-pay-calculator.git)
 - Сервис авторизации [ссылка](https://github.com/veraknyazeva/authorizationService.git)
 - CSV - JSON парсер / XML - JSON парсер [ссылка](https://github.com/veraknyazeva/csvJson.git)
